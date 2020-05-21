@@ -1,0 +1,36 @@
+h1,h2,h3,p{
+    font-family:sans-serif ;
+    color:black
+}
+.M{
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 50px;
+}
+.box{
+    margin-bottom: 15px;
+    background-color: gray;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+    
+}
+.V,.C,.F{
+    
+    font-family: cursive;
+    text-align: center;
+   
+}
+#header-nav{
+    background-color:grey;
+    border-radius: 0;
+    border:2px solid black;
+
+}
+.navbar-brand{
+    height:100px;
+}
+
+.container{
+     margin-left: 0 ;
+}
